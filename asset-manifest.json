@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/agile_/static/css/main.0136a8ab.css",
+    "main.js": "/agile_/static/js/main.7efe9fcd.js",
+    "static/js/787.5f4fa8e0.chunk.js": "/agile_/static/js/787.5f4fa8e0.chunk.js",
+    "static/media/CFS_Paloma_Infinity_Shot_04_0776-edit 2.png": "/agile_/static/media/CFS_Paloma_Infinity_Shot_04_0776-edit 2.2c3dd21d84a4d846f875.png",
+    "static/media/Anton-Regular.ttf": "/agile_/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
+    "index.html": "/agile_/index.html",
+    "main.0136a8ab.css.map": "/agile_/static/css/main.0136a8ab.css.map",
+    "main.7efe9fcd.js.map": "/agile_/static/js/main.7efe9fcd.js.map",
+    "787.5f4fa8e0.chunk.js.map": "/agile_/static/js/787.5f4fa8e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0136a8ab.css",
+    "static/js/main.7efe9fcd.js"
+  ]
+}
